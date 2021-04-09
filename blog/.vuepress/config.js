@@ -49,7 +49,7 @@ module.exports = {
     },
     directories: {
       path: '/posts/',
-      itemPermalink: '/writings/:year/:month/:day/:slug'
+      itemPermalink: '/posts/:year/:month/:day/:slug'
     }
   },
 }
